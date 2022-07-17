@@ -1,0 +1,31 @@
+
+img
+{
+    width:300px;
+    height:auto;
+    border-radius: 20px;
+}
+
+#imgLandscape
+{
+    width:auto;
+    height:400px;
+    border-radius: 20px;
+}
+
+.imgLandscapeFull
+{
+    width:100%;
+    height:auto;
+    border-radius: 20px;
+    border-style: double;
+}
+
+.center{
+    text-align: center;
+}
+
+#centerBlue{
+    text-align: center;
+    color: #76b6c4;
+}
